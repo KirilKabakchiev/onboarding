@@ -2,6 +2,7 @@
 
 ## Intro
 * intro to authentication https://medium.com/better-programming/how-do-you-authenticate-mate-f2b70904cc3a
+* intro to api auth https://www.youtube.com/watch?v=XpEyRVEOFuU
 
 ## Oauth2
 * intro on oauth2 https://www.youtube.com/watch?v=996OiexHze0
