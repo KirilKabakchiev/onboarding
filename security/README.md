@@ -7,6 +7,7 @@
 ## Oauth2
 * intro on oauth2 https://www.youtube.com/watch?v=996OiexHze0
 * book on oauth2 https://github.com/NedyUdombat/Free-Web-Development-eBooks/blob/master/book/Uncategorized/Mastering%20OAuth%202.0.pdf
+* Oauth2 with OpenID Connect for Authentication https://oauth.net/articles/authentication/
 
 ## Other
 * auth in microservices https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
