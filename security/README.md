@@ -10,5 +10,11 @@
 * Oauth2 with OpenID Connect for Authentication https://oauth.net/articles/authentication/
 * Illustrated guide on Oauth and OIDC https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
 
+### Dex
+
+Dex is an OIDC Identity provider. Normally its used as a portal to other identity providers but it also has two test IDPs (connector_id=mock and connector_id=local) that can be used for local testing 
+* run dex locally and run a client app https://github.com/dexidp/dex/blob/master/Documentation/getting-started.md. Observe the network tab requests
+* client code (uses go-oidc and oauth2) https://github.com/dexidp/dex/blob/master/cmd/example-app/main.go
+
 ## Other
 * auth in microservices https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a
