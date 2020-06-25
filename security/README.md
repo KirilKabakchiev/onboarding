@@ -9,6 +9,7 @@
 * book on oauth2 https://github.com/NedyUdombat/Free-Web-Development-eBooks/blob/master/book/Uncategorized/Mastering%20OAuth%202.0.pdf
 * Oauth2 with OpenID Connect for Authentication https://oauth.net/articles/authentication/
 * Illustrated guide on Oauth and OIDC https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+* Good example with Golang https://auth0.com/docs/quickstart/webapp/golang#trigger-authentication
 
 ### Dex
 
